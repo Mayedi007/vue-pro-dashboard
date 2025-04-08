@@ -2,11 +2,16 @@
 
 > A modern, fully-featured Vue 3 admin panel built with Vite, TypeScript & Vuestic UI — ideal for internal tools, dashboards, and admin systems.
 
+[![Netlify Status](https://img.shields.io/badge/Live%20Demo-Online-green?style=flat-square&logo=netlify)](https://mohamed-abdellatif-ayadi-daschboard.netlify.app/dashboard)
+
 ---
 
 ## 📸 Preview
 
 ![Dashboard Preview](https://raw.githubusercontent.com/epicmaxco/vuestic-admin/develop/public/img/overview-light.jpg)
+
+🖱️ **Try it live:**  
+👉 [https://mohamed-abdellatif-ayadi-daschboard.netlify.app/dashboard](https://mohamed-abdellatif-ayadi-daschboard.netlify.app/dashboard)
 
 ---
 
